@@ -1,1 +1,35 @@
 // NAVBAR 
+
+nav{
+    >div{
+
+        div{
+            
+        }
+        img{
+            padding: 79px 0px 0px 0px;
+        }
+        color: #A38751;
+        display: flex;
+        justify-content: center;
+        p{
+            font-size: 40.5px;
+            font-family: baskerville;
+            font-weight: lighter;
+            padding: 99px 26px 0px 0px;
+        }
+    }
+    >ul{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        padding: 0px 27px 0px 27px;
+        font-family: baskerville;
+        font-weight: bold;
+        color: #483B22;
+        font-size: 29px;
+        li{
+            padding: 40px 40px 0px 40px;
+        }
+    }
+}

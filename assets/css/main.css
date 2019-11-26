@@ -51,4 +51,47 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
+nav > div {
+  color: #A38751;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+nav > div img {
+  padding: 79px 0px 0px 0px;
+}
+
+nav > div p {
+  font-size: 40.5px;
+  font-family: baskerville;
+  font-weight: lighter;
+  padding: 99px 26px 0px 0px;
+}
+
+nav > ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding: 0px 27px 0px 27px;
+  font-family: baskerville;
+  font-weight: bold;
+  color: #483B22;
+  font-size: 29px;
+}
+
+nav > ul li {
+  padding: 40px 40px 0px 40px;
+}
 /*# sourceMappingURL=main.css.map */
