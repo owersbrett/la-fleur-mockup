@@ -1,1 +1,28 @@
 // HOME
+
+h1{
+   text-align: center;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    li{
+        display: flex;
+
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+footer{
+    div{
+        display: flex;
+        justify-content: center;
+    }
+}
+
+img {
+    width: 429px;
+    height: 542px;
+}
